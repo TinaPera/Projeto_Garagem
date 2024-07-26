@@ -1,9 +1,13 @@
 <script setup>
-import MenuSuperior from '@/components/MenuSuperior.vue';
+import Header from '@/components/Header.vue';
+// import HeaderXl from './components/HeaderXl.vue';
+// import HeaderSm from './components/HeaderSm.vue';
 </script>
 
 <template>
-    <MenuSuperior />
+    <Header />
+    <!-- <HeaderXl />
+    <HeaderSm /> -->
   <main>
     <RouterView />
   </main>
