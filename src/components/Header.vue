@@ -1,7 +1,9 @@
 <script setup></script>
 
 <template> 
-    aaa
+    <header></header>
 </template>
 
-<style scoped></style>
+<style scoped>
+
+</style>
